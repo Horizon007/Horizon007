@@ -23,8 +23,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<p align="center">
+  
 <h1 height="200px" align="center">🤓 Github Stats </h1>
 <p align="center">
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Horizon007&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
