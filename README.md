@@ -28,13 +28,13 @@
 ----
 
 <p align="center">
-<h2 height="200px" align="center">🤓 Github Stats </h2>
+<h1 height="200px" align="center">🤓 Github Stats </h1>
 <p align="center">
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Horizon007&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
     <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Horizon007&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
 </p>
 <p align="center">
-<h2 height="200px" align="center">⚡Tech Stack</h2>
+<h1 height="200px" align="center">⚡Tech Stack</h1>
 <p align="center">
     <code><img src="https://img.shields.io/badge/-Golang-black?style=for-the-badge&logo=go"/></code>
     <code><img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql"/></code>
@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-<h2 height="200px" align="center">🔍 Connect with Me</h2>
+<h1 height="200px" align="center">🔍 Connect with Me</h1>
 <p align="center">
 <a href="mailto:1311047170@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-1311047170@qq.com-blue?style=flat-square&logo=gmail"></a>
 </p>
