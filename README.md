@@ -12,7 +12,6 @@
     <img src="https://profile-counter.glitch.me/Horizon007/count.svg" />
 </p>
 
----
 <h1 height="200px" align="center">🤖 About me </h1>
 <img align="right" alt="GIF" src="images/dev-working.gif" width="300"/>
 
@@ -24,8 +23,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-  
-----
 
 <p align="center">
 <h1 height="200px" align="center">🤓 Github Stats </h1>
