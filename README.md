@@ -12,23 +12,27 @@
     <img src="https://profile-counter.glitch.me/Horizon007/count.svg" />
 </p>
 
+<p>
 <h1 height="200px" align="center">🤖 About me </h1>
 <img align="right" alt="GIF" src="images/dev-working.gif" width="280"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently pursuing a **master's degree**
+- 🌱 I’m currently learning **Golang, Kubernetes, Docker, Cloud native**
+- 🚀 I’m currently seeking an **internship job**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-  
+</p>
+
 <h1 height="200px" align="center">🤓 Github Stats </h1>
 <p align="center">
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Horizon007&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
     <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Horizon007&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
 </p>
+
 <p align="center">
 <h1 height="200px" align="center">⚡Tech Stack</h1>
 <p align="center">
