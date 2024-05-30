@@ -17,7 +17,7 @@
 <img align="right" alt="GIF" src="images/dev-working.gif" width="280"/>
 
 - 🔭 I’m currently pursuing a **master's degree**
-- 🌱 I’m currently learning **Golang, Kubernetes, Docker, Cloud native**
+- 🌱 I’m currently learning **Golang, Kubernetes, Docker, DevOps, Cloud native**
 - 🚀 I’m currently seeking an **internship job**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
